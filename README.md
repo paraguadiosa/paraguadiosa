@@ -16,16 +16,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"><i>I don't live life, I orchestrate it.</i></p>
 
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="ML & LLMs" src="https://img.shields.io/badge/-ML%20%26%20LLMs-c061cb?style=flat-square" />
-  <img alt="Self-hosting" src="https://img.shields.io/badge/-Self--hosting-00b894?style=flat-square" />
-  <img alt="Observability" src="https://img.shields.io/badge/-Observability-2d3436?style=flat-square&logo=grafana&logoColor=white" />
-  <img alt="Tailnet" src="https://img.shields.io/badge/-Tailnet-4b8bbe?style=flat-square&logo=tailscale&logoColor=white" />
-</p>
-
----
-
 ## About me
 
 - Machine Learning Engineer by day: models, features, A/B tests, and pipelines that survive contact with production.
