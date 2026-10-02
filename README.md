@@ -10,7 +10,7 @@ astrocronopio/astrocronopio is a ✨ special ✨ repository because its `README.
 <p align="center"><b>technodiva · Machine Learning Engineer</b></p>
 
 <p align="center">
-  📍Asunción, Paraguay & 🌍 Remote
+  Asunción, Paraguay & Remote
 </p>
 
 <p align="center">
@@ -27,9 +27,9 @@ astrocronopio/astrocronopio is a ✨ special ✨ repository because its `README.
 
 ### What I Do
 
-- **☀️ By Day | ML Engineer**: Models, feature stores, A/B testing frameworks, and production-hardened data pipelines.
-- **🌙 By Night | Agent Architect**: Building autonomous AI agents, Telegram/Discord bots, and local self-hosted infrastructure. *My data never leaves my tailnet.*
-- **⚡ Ecosystem**: Python · LLM/Agent Workflows · Observability · Tailscale/Netmaker Home-Lab
+- **By Day | ML Engineer**: Models, feature stores, A/B testing frameworks, and production-hardened data pipelines.
+- **By Night | Agent Architect**: Building autonomous AI agents, Telegram/Discord bots, and local self-hosted infrastructure. *My data never leaves my tailnet.*
+- **Ecosystem**: Python · LLM/Agent Workflows · Observability · Tailscale/Netmaker Home-Lab
 
 ---
 
